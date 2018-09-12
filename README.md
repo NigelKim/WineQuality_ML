@@ -55,3 +55,5 @@ Throughout the semester, we explored total of 8 different models of the followin
 4.	Random Forest	5.	Gaussian Process
 6.	Kernel SVM
 7.	DNN regressor
+
+### Please look at MLSP18_FinalReport.pdf at this repository for a full final report on the project. ###
