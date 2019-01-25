@@ -16,9 +16,9 @@ Jaesang Ha			      419887
 Ryun Han			        429091		r.han@wustl.edu
 
 Language: *Python*\
-Course: CSE 517A Machine Learning:Application
-Instructor: Marion Neumann Ph.D.
-Institution: Washington University In St.Louis
+Course: CSE 517A Machine Learning:Application\
+Instructor: Marion Neumann Ph.D.\
+Institution: Washington University In St.Louis\
 Time: Spring 2018
 
 
