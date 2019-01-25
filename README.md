@@ -1,7 +1,5 @@
-Machine Learning (cse517a) Example Application Project
+Machine Learning (cse517a) Application Project
 ======================================================
-
-Machine Learning Spring 2018
 
 Team: Kimcheese
 
@@ -17,7 +15,11 @@ Jaesang Ha			      419887
 
 Ryun Han			        429091		r.han@wustl.edu
 
-GitHub: https://github.com/NigelKim/cse517project 
+Language: *Python*\
+Course: CSE 517A Machine Learning:Application
+Instructor: Marion Neumann Ph.D.
+Institution: Washington University In St.Louis
+Time: Spring 2018
 
 
 
